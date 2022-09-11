@@ -10,6 +10,7 @@
     border: 1px solid #333;
     margin: 0 auto;
     position: relative;
+    background: linear-gradient(#87CEEB, #E0F6FF);
 }
 
 .corredor {
