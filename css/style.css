@@ -20,16 +20,16 @@
   width: 200px;
 }
 
-.carro-vermelho {
+.meeting {
     position: absolute;
     bottom: 10px;
-    width: 150px;
-    animation: car-animation 2s infinite linear;
+    width: 100px;
+    animation: meeting-animation 2s infinite linear;
 }
 
-@keyframes car-animation {
+@keyframes meeting-animation {
     from {
-        right: -150px;
+        right: -100px;
     }
 
     to {
